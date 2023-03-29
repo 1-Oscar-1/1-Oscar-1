@@ -9,6 +9,7 @@ Soy un desarrollador web apasionado por la tecnología y en constante aprendizaj
 - Diseño responsive 📱
 - UX/UI design 🎨💡
 - MySQL 💾
+- PHP 🐘
 
 ## Tecnologías que estoy aprendiendo 🌱
 
