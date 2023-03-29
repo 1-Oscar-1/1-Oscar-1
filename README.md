@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hola, soy Oscar 👋
+Soy un desarrollador web apasionado por la tecnología y en constante aprendizaje. Me especializo en el desarrollo web front-end, haciendo uso de diferentes tecnologías para crear sitios web dinámicos y responsivos que brinden una gran experiencia de usuario. 
 
-<!--
-**1-Oscar-1/1-Oscar-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Habilidades 🚀
+- HTML5, CSS3, JavaScript 🌐
+- ReactJS ⚛️
+- Bootstrap, Tailwind CSS 🎨
+- Git, GitHub 🐙
+- Diseño responsive 📱
+- UX/UI design 🎨💡
+- MySQL 💾
 
-Here are some ideas to get you started:
+## Tecnologías que estoy aprendiendo 🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- MongoDB
+- Express
+- AngularJS
+- VueJS
+
+## Herramientas
+
+Aquí hay algunas de las herramientas que suelo utilizar:
+
+- Visual Studio Code 💻
+- Sublime Text 📝
+
+## Contacto 📫
+- [LinkedIn](https://www.linkedin.com/in/oscar-laro/)
+- ryuucoder@gmail.com
